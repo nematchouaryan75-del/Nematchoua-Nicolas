@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background:lch(0.55% 0 296.81)
+}
+
+header{
+    background:#3f0244;
+    color:rgb(19, 18, 18);
+    text-align:center;
+    padding:30px;
+}
+
+nav{
+    background:#222;
+}
+
+nav ul{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+}
+
+nav ul li{
+    margin:15px;
+}
+
+nav ul li a{
+    color:rgb(17, 17, 17);
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.hero{
+    text-align:center;
+    padding:60px 20px;
+    background:rgb(26, 25, 25);
+}
+
+.hero h2{
+    margin-bottom:15px;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 25px;
+    background:#004080;
+    color:rgb(24, 22, 22);
+    text-decoration:none;
+    border-radius:5px;
+}
+
+section{
+    padding:40px;
+}
+
+#services{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+}
+
+.service{
+    background:rgb(241, 226, 226);
+    padding:20px;
+    width:250px;
+    border-radius:10px;
+    box-shadow:0 2px 5px rgba(238, 235, 235, 0.2);
+}
+
+#apropos{
+    background:rgb(240, 236, 236);
+    text-align:center;
+}
+
+form{
+    max-width:500px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+}
+
+form input,
+form textarea{
+    margin-bottom:15px;
+    padding:12px;
+    border:1px solid #faf3f3;
+    border-radius:5px;
+}
+
+form button{
+    padding:12px;
+    border:none;
+    background:#42013dde;
+    color:rgb(235, 231, 231);
+    cursor:pointer;
+    border-radius:5px;
+}
+
+form button:hover{
+    background:#0066cc;
+}
+
+footer{
+    text-align:center;
+    background:#f5f3f3;
+    color:rgb(102, 3, 64);
+    padding:20px;
+}
+ 
