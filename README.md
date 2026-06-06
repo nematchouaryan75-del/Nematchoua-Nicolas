@@ -81,7 +81,7 @@ Fonctionnalités :
 
 📧 Email : nematchouaryan75@gmail.com
 
-💼 GitHub : https://github.com/VOTRE-USERNAME
+💼 GitHub : https://github.com/nematchouaryan75-del/Nematchoua-Nicolas.git
 
 🌍 Portfolio : https://nematchouanicolas.vercel.app
 
@@ -89,9 +89,9 @@ Fonctionnalités :
 
 ## 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nematchoua-nicolas&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nematchoua-ryan&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nematchoua-nicolas&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nematchoua-ryan&layout=compact)
 
 ---
 
